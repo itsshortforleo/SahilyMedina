@@ -1,115 +1,65 @@
-﻿<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
-<!--
-Design by TEMPLATED
-http://templated.co
-Released for free under the Creative Commons Attribution License
+﻿<!DOCTYPE HTML>
+<html lang="en">
 
-Name       : Wirework 
-Description: A two-column, fixed-width design with dark color scheme.
-Version    : 1.0
-Released   : 20140208
+	<head>
+		<title>Sahily Medina - Journalist, Entertainer, Dancer</title>
+		
+		<meta charset="utf-8" />
+		<meta name="copyright" content="2015" />
+		<meta name="geo.region" content="US-CA" />
+		<meta name="geo.placename" content="Los Angeles" />
+		<meta name="geo.position" content="34.052234;-118.243685" />
+		<meta name="ICBM" content="34.052234, -118.243685" />
+		<meta name="description" content="Sahily Medina is an independent entertainer looking to join a great team" />
+		<meta name="keywords" content="sahily medina, comunicacion corporativa, comunicación corporativa, bailarina, dance, ballet, journalism" />
+		
+		<!--[if lt IE 9]>
+				<script src="http://html5shiv.googlecode.com/svn/trunk/html5.js"></script>
+				<![endif]-->
+				<!--[if lt IE 7]> <div style=' clear: both; height: 59px; padding:0 0 0 15px; position: relative;'> <a href="http://www.microsoft.com/windows/internet-explorer/default.aspx?ocid=ie6_countdown_bannercode"><img src="http://www.theie6countdown.com/images/upgrade.jpg" border="0" height="42" width="820" alt="" /></a></div> <![endif]-->
+	
+		<link rel="shortcut icon" href="/Images/smallLogo.ico">		
+		<link rel="stylesheet" href="master.css" media="screen" />
+	</head>
 
--->
-<html xmlns="http://www.w3.org/1999/xhtml">
-<head>
-<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
-<title></title>
-<meta name="keywords" content="" />
-<meta name="description" content="" />
-<link href="http://fonts.googleapis.com/css?family=Source+Sans+Pro:200,300,400,600,700,900" rel="stylesheet" />
-<link href="default.css" rel="stylesheet" type="text/css" media="all" />
-<link href="fonts.css" rel="stylesheet" type="text/css" media="all" />
+<body data-vide-bg="/video/background">
+<script src="//ajax.googleapis.com/ajax/libs/jquery/1.11.1/jquery.min.js"></script>
+<script>window.jQuery || document.write('<script src="/js/jquery/jquery-1.11.1.min.js"><\/script>')</script>
+<script src="/js/jquery.vide.js"></script>
+	
+<div id="outer-wrapper">
+	<main>
+		<div id="frame"><h1>Sahily Medina</h1>
+			<p class="est">Est. 1986</p>
+		</div>
+		</main>
 
-<!--[if IE 6]><link href="default_ie6.css" rel="stylesheet" type="text/css" /><![endif]-->
+	<footer>
+		<div id="wrapper">
 
-</head>
-<body>
-<div id="header-wrapper">
-	<div id="header" class="container">
-		<div id="logo">
-			<h1><a href="#">SAHILY MEDINA</a></h1>
-			<span>By <a href="http://templated.co">TEMPLATED</a></span> </div>
-		<div id="menu">
+		<div id="me">
+			<h2>Sahily Medina</h2>
+			<h3>Journalist, Entertainer, Dancer</h3>
+		</div>
+
+		<div id="social">
 			<ul>
-				<li class="current_page_item"><a href="#" accesskey="1" title="">Homepage</a></li>
-				<li><a href="#" accesskey="2" title="">Our Clients</a></li>
-				<li><a href="#" accesskey="3" title="">About Us</a></li>
-				<li><a href="#" accesskey="4" title="">Careers</a></li>
-				<li><a href="#" accesskey="5" title="">Contact Us</a></li>
+				<li><a href="http://twitter.com/fmaclen" title="I dare you to follow me on Twitter" target="_blank" class="twitter">Twitter</a></li>
+				<li><a href="http://github.com/fmaclen" title="My technical side" target="_blank" class="github">GitHub</a></li>
+				<li><a href="http://dribbble.com/fmaclen" title="Quite possible the only portfolio I update regularly" target="_blank" class="dribbble">Dribbble</a></li>
+				<li><a href="/cdn-cgi/l/email-protection#ddb0b89dbbb8afb3bcb3b9b2f3b4ae" title="Good, old fashioned email. Bare in mind that I might reply from a different address" target="_blank" class="email">E-Mail</a></li>
 			</ul>
 		</div>
-	</div>
-</div>
-<div id="header-featured"> </div>
-<div id="banner-wrapper">
-	<div id="banner" class="container">
-		<p>This is <strong>Wirework</strong>, a free, fully standards-compliant CSS template designed by <a href="http://templated.co" rel="nofollow">TEMPLATED</a>. The photos in this template are from <a href="http://fotogrph.com/"> Fotogrph</a>. This free template is released under the <a href="http://templated.co/license">Creative Commons Attribution</a> license, so you're pretty much free to do whatever you want with it (even use it commercially) provided you give us credit for it. Have fun :) </p>
-	</div>
-</div>
-<div id="wrapper">
-	<div id="featured-wrapper">
-		<div id="featured" class="container">
-			<div class="column1"> <span class="icon icon-key"></span>
-				<div class="title">
-					<h2>Maecenas lectus sapien</h2>
-				</div>
-				<p>In posuere eleifend odio. Quisque semper augue mattis wisi. Pellentesque viverra vulputate enim. Aliquam erat volutpat.</p>
-			</div>
-			<div class="column2"> <span class="icon icon-legal"></span>
-				<div class="title">
-					<h2>Praesent scelerisque</h2>
-				</div>
-				<p>In posuere eleifend odio. Quisque semper augue mattis wisi. Pellentesque viverra vulputate enim. Aliquam erat volutpat.</p>
-			</div>
-			<div class="column3"> <span class="icon icon-unlock"></span>
-				<div class="title">
-					<h2>Fusce ultrices fringilla</h2>
-				</div>
-				<p>In posuere eleifend odio. Quisque semper augue mattis wisi. Pellentesque viverra vulputate enim. Aliquam erat volutpat.</p>
-			</div>
-			<div class="column4"> <span class="icon icon-wrench"></span>
-				<div class="title">
-					<h2>Etiam posuere augue</h2>
-				</div>
-				<p>In posuere eleifend odio. Quisque semper augue mattis wisi. Pellentesque viverra vulputate enim. Aliquam erat volutpat.</p>
-			</div>
-		</div>
-	</div>
-	<div id="extra" class="container">
-		<h2>Maecenas vitae orci vitae tellus feugiat eleifend</h2>
-		<span>Quisque dictum integer nisl risus, sagittis convallis, rutrum id, congue, and nibh</span> <a href="#" class="button">Etiam posuere</a> </div>
-</div>
-	<div id="footer-wrapper">
-		<div id="footer" class="container">
-			<div class="column1">
-				<div class="title">
-					<h2>Maecenas lectus sapien</h2>
-				</div>
-				<p>In posuere eleifend odio. Quisque semper augue mattis wisi. Pellentesque viverra vulputate enim. Aliquam erat volutpat.</p>
-			</div>
-			<div class="column2">
-				<div class="title">
-					<h2>Praesent scelerisque</h2>
-				</div>
-				<p>In posuere eleifend odio. Quisque semper augue mattis wisi. Pellentesque viverra vulputate enim. Aliquam erat volutpat.</p>
-			</div>
-			<div class="column3">
-				<div class="title">
-					<h2>Fusce ultrices fringilla</h2>
-				</div>
-				<p>In posuere eleifend odio. Quisque semper augue mattis wisi. Pellentesque viverra vulputate enim. Aliquam erat volutpat.</p>
-			</div>
-			<div class="column4">
-				<div class="title">
-					<h2>Etiam posuere augue</h2>
-				</div>
-				<p>In posuere eleifend odio. Quisque semper augue mattis wisi. Pellentesque viverra vulputate enim. Aliquam erat volutpat.</p>
-			</div>
-		</div>
-	</div>
 
-<div id="copyright" class="container">
-	<p>&copy; Untitled. All rights reserved. | Photos by <a href="http://fotogrph.com/">Fotogrph</a> | Design by <a href="http://templated.co" rel="nofollow">TEMPLATED</a>.</p>
+		</div>
+	</footer>
+
 </div>
+<script type="text/javascript">
+/* <![CDATA[ */
+(function(){try{var s,a,i,j,r,c,l=document.getElementsByTagName("a"),t=document.createElement("textarea");for(i=0;l.length-i;i++){try{a=l[i].getAttribute("href");if(a&&a.indexOf("/cdn-cgi/l/email-protection") > -1  && (a.length > 28)){s='';j=27+ 1 + a.indexOf("/cdn-cgi/l/email-protection");if (a.length > j) {r=parseInt(a.substr(j,2),16);for(j+=2;a.length>j&&a.substr(j,1)!='X';j+=2){c=parseInt(a.substr(j,2),16)^r;s+=String.fromCharCode(c);}j+=1;s+=a.substr(j,a.length-j);}t.innerHTML=s.replace(/</g,"&lt;").replace(/>/g,"&gt;");l[i].setAttribute("href","mailto:"+t.value);}}catch(e){}}}catch(e){}})();
+/* ]]> */
+</script>
 </body>
+
 </html>
