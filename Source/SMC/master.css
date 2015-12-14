@@ -89,27 +89,6 @@ footer {
 #me {
 	display: none;
 }
-/* #me {
-	display: none;
-	float: left;
-	width: 375px;
-	height: 50px;
-	text-align: left;
-}
-
-#me h2 {
-	font-family: 'MuseoSans900', 'Helvetica Neue', Helvetica, Arial, sans-serif;
-	font-size: 25px;
-	letter-spacing: -0.05em;
-	line-height: 25px;
-}
-
-#me h3 {
-	text-transform: uppercase;
-	font-size: 10px;
-	font-weight: normal;
-	letter-spacing: 2px;
-} */
 
 #social {
 	width: 320px;
@@ -117,7 +96,7 @@ footer {
 }
 
 
-/* Icons â€“â€“â€“â€“â€“â€“â€“â€“â€“â€“â€“â€“â€“â€“â€“â€“â€“â€“â€“â€“â€“â€“â€“â€“â€“â€“â€“â€“â€“â€“â€“â€“â€“â€“â€“â€“â€“â€“â€“â€“â€“â€“â€“â€“â€“â€“â€“â€“â€“â€“â€“â€“â€“â€“â€“â€“ */
+/* Icons  */
 
 #social ul li {
 	display:  inline-block;

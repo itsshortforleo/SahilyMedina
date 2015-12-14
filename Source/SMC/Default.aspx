@@ -28,7 +28,7 @@
 <div id="outer-wrapper">
 	<main>
 		<div id="frame"><h1>Sahily Medina</h1>
-			<p class="est">Est. 1986</p>
+			<p class="est">Est. 1991</p>
 		</div>
 		</main>
 
@@ -43,8 +43,8 @@
 		<div id="social">
 			<ul>
 				<li><a href="http://twitter.com/sahilycruz" title="Follow me on Twitter" target="_blank" class="twitter">Twitter</a></li>
-				<li><a href="#" title="My technical side" target="_blank" class="github">GitHub</a></li>
-				<li><a href="#" title="Quite possible the only portfolio I update regularly" target="_blank" class="dribbble">Dribbble</a></li>
+				<li><a href="#" title="Git" target="_blank" class="github">GitHub</a></li>
+				<li><a href="#" title="Portfolio" target="_blank" class="dribbble">Dribbble</a></li>
 				<li><a href="mailto:sahilymedina@gmail.com" title="email" target="_blank" class="email">E-Mail</a></li>
 			</ul>
 		</div>
@@ -53,11 +53,7 @@
 	</footer>
 
 </div>
-<script type="text/javascript">
-/* <![CDATA[ */
-(function(){try{var s,a,i,j,r,c,l=document.getElementsByTagName("a"),t=document.createElement("textarea");for(i=0;l.length-i;i++){try{a=l[i].getAttribute("href");if(a&&a.indexOf("/cdn-cgi/l/email-protection") > -1  && (a.length > 28)){s='';j=27+ 1 + a.indexOf("/cdn-cgi/l/email-protection");if (a.length > j) {r=parseInt(a.substr(j,2),16);for(j+=2;a.length>j&&a.substr(j,1)!='X';j+=2){c=parseInt(a.substr(j,2),16)^r;s+=String.fromCharCode(c);}j+=1;s+=a.substr(j,a.length-j);}t.innerHTML=s.replace(/</g,"&lt;").replace(/>/g,"&gt;");l[i].setAttribute("href","mailto:"+t.value);}}catch(e){}}}catch(e){}})();
-/* ]]> */
-</script>
+
 </body>
 
 </html>
