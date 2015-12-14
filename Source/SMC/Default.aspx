@@ -8,9 +8,7 @@
 		<meta name="copyright" content="2015" />
 		<meta name="geo.region" content="US-CA" />
 		<meta name="geo.placename" content="Los Angeles" />
-		<meta name="geo.position" content="34.052234;-118.243685" />
-		<meta name="ICBM" content="34.052234, -118.243685" />
-		<meta name="description" content="Sahily Medina is an independent entertainer looking to join a great team" />
+		<meta name="description" content="Sahily Medina is an independent entertainer looking to join a great team." />
 		<meta name="keywords" content="sahily medina, comunicacion corporativa, comunicación corporativa, bailarina, dance, ballet, journalism" />
 		
 		<!--[if lt IE 9]>
@@ -25,7 +23,7 @@
 <body data-vide-bg="/video/background">
 <script src="//ajax.googleapis.com/ajax/libs/jquery/1.11.1/jquery.min.js"></script>
 <script>window.jQuery || document.write('<script src="/js/jquery/jquery-1.11.1.min.js"><\/script>')</script>
-<script src="/js/jquery/jquery.vide.js"></script>
+<script src="/js/jquery/jquery.vid.js"></script>
 	
 <div id="outer-wrapper">
 	<main>
@@ -44,10 +42,10 @@
 
 		<div id="social">
 			<ul>
-				<li><a href="http://twitter.com/fmaclen" title="I dare you to follow me on Twitter" target="_blank" class="twitter">Twitter</a></li>
-				<li><a href="http://github.com/fmaclen" title="My technical side" target="_blank" class="github">GitHub</a></li>
-				<li><a href="http://dribbble.com/fmaclen" title="Quite possible the only portfolio I update regularly" target="_blank" class="dribbble">Dribbble</a></li>
-				<li><a href="/cdn-cgi/l/email-protection#ddb0b89dbbb8afb3bcb3b9b2f3b4ae" title="Good, old fashioned email. Bare in mind that I might reply from a different address" target="_blank" class="email">E-Mail</a></li>
+				<li><a href="http://twitter.com/sahilycruz" title="Follow me on Twitter" target="_blank" class="twitter">Twitter</a></li>
+				<li><a href="#" title="My technical side" target="_blank" class="github">GitHub</a></li>
+				<li><a href="#" title="Quite possible the only portfolio I update regularly" target="_blank" class="dribbble">Dribbble</a></li>
+				<li><a href="mailto:sahilymedina@gmail.com" title="email" target="_blank" class="email">E-Mail</a></li>
 			</ul>
 		</div>
 
