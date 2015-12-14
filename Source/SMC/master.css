@@ -1,10 +1,6 @@
 @font-face {
     font-family: 'MuseoSans900';
-    src: url('type/MuseoSans_900-webfont.eot');
-    src: url('type/MuseoSans_900-webfont.eot?#iefix') format('embedded-opentype'),
-         url('type/MuseoSans_900-webfont.woff') format('woff'),
-         url('type/MuseoSans_900-webfont.ttf') format('truetype'),
-         url('type/MuseoSans_900-webfont.svg#MuseoSans900') format('svg');
+    src: url('Fonts/MuseoSans_900-webfont.woff') format('woff');
     font-weight: bold;
     font-style: normal;
 }
@@ -20,7 +16,7 @@ html, body, div, span, applet, object, iframe,h1, h2, h3, h4, h5, h6, p, blockqu
 
 html {
 	background: url(video/background.png) no-repeat center center fixed;
-	-webkit-background-size: cover;
+    -webkit-background-size: cover;
 	-moz-background-size: cover;
 	-o-background-size: cover;
 	background-size: cover;
